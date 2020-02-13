@@ -1,0 +1,5 @@
+.gradle/
+build/
+hello-gradle.iml
+.idea/
+gradle/
